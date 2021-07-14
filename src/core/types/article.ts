@@ -1,5 +1,5 @@
 import { Profile } from './profile'
-import { Tag } from './Tag'
+import { Tag } from './tag'
 
 export type Article = {
   slug: string
